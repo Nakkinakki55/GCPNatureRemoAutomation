@@ -17,6 +17,6 @@
 ## 📦 インストール方法
 ### 1. リポジトリをクローン
 ```txt
-git clone https://github.com/Nakkinakki55/ac-automation-controller.git
-cd ac-automation-controller
+git clone https://github.com/Nakkinakki55/GCPNatureRemoAutomation.git
+cd GCPNatureRemoAutomation
 ```
