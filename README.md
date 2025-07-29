@@ -24,3 +24,32 @@ cd GCPNatureRemoAutomation
 デプロイする手順については、以下の記事を参考にするとスムーズに進められます。
 <br>
 [冬の朝をもっと快適に！GCP×Nature Remoで実現するエアコン自動化プロジェクト #Node.js - Qiita](https://qiita.com/nishifeoda/items/9b5cc9ea3c748de65b8c)
+
+---
+
+# GCP × Nature Remo - Air Conditioner Automation Project
+
+This project aims to automate air conditioner control by leveraging Google Cloud Platform (GCP)'s Cloud Run and Cloud Scheduler, integrated with Nature Remo. The system is designed to create a comfortable environment, reducing the stress of getting out of bed on cold winter mornings.
+
+## echnologies Used
+| Technology | Details |
+|------|------|
+| **Development Language** | Node.js v22.14.0|
+| **Server Environment** | Google Cloud Run |
+| **Scheduled Execution** | Google Cloud Scheduler |
+| **Device Control** | Nature Remo API |
+
+---
+
+## Installation
+### 1. Clone the Repository
+```txt
+git clone https://github.com/Nakkinakki55/GCPNatureRemoAutomation.git
+cd GCPNatureRemoAutomation
+```
+
+## Deployment
+mooth deployment, you can refer to the following article:
+<br>
+[Make Winter Mornings More Comfortable! Air Conditioner Automation Project with GCP × Nature Remo #Node.js - Qiita](https://qiita.com/nishifeoda/items/9b5cc9ea3c748de65b8c)
+
